@@ -10,7 +10,7 @@ export default function Home() {
         <h1> Have a Great Time </h1>
       </div>
       <div className="contImgs">
-        <Image src="/Images/index.png" alt={""} width={600} height={600} ></Image>
+        <Image src="./Images/index.png" alt={""} width={600} height={600} ></Image>
       </div>
     </div>
   );
