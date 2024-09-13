@@ -34,7 +34,7 @@ const Header = () => {
 
 					<h1 id="logo">
 						<button className="menulink" onClick={handleClick}>
-							<Image src="/menu.svg" alt={""} width={200} height={200} ></Image>
+							<Image src="./menu.svg" alt={""} width={200} height={200} ></Image>
 						</button>
 						<div className="cercle"></div>
 						Shop
