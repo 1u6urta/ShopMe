@@ -1,0 +1,154 @@
+{
+  "Products": [
+    {
+      "id": 1,
+      "image": "air jordan 1 low 1.jpeg",
+      "name": "Air Jordan 1 Low",
+      "description": "Inspired by the original that debuted in 1985, the Air Jordan 1 Low offers a clean, classic look that's familiar yet always fresh. With an iconic design that pairs perfectly with any fit, these kicks ensure you'll always be on point.",
+      "category": "Shoes",
+      "prixOffer": 6500,
+      "prix": 7000,
+      "images": [
+        "air jordan 1 low 2.png",
+        "air jordan 1 low 3.png",
+        "air jordan 1 low 4.png",
+        "air jordan 1 low 5.png"
+      ]
+    },
+    {
+      "id": 2,
+      "image": "air vapormax 1.jpeg",
+      "name": "Nike Air VaporMax 2021 FK",
+      "description": "What's better than bouncy, breathable kicks? If your answer is 'sneakers you can play all day in,' we've got you covered. Designed with comfort in mind, these shoes combine the sock-like fit of super stretchy Nike Flyknit with the responsive cushioning of VaporMax Air to put an all-day spring in your step.",
+      "category": "Shoes",
+      "prixOffer": 7500,
+      "prix": 8500,
+      "images": [
+        "air vapormax 3.png",
+        "air vapormax 4.png",
+        "air vapormax 5.png",
+        "air vapormax 2.png"
+      ]
+    },
+    {
+      "id": 3,
+      "image": "air jordan t 1.jpeg",
+      "name": "Air Jordan T-Shirt",
+      "description": "Jordan Brand classic T-Shirt. Add freshness to any style. A solid structure is realized by using thick cotton material. It features clean classic 'Air Jordan' embroidery and a woven clamp label.",
+      "category": "T-Shirt",
+      "prixOffer": 1550,
+      "prix": 2000,
+      "images": [
+        "air jordan t 2.png",
+        "air jordan t 3.png",
+        "air jordan t 4.png",
+        "air jordan t 5.png"
+      ]
+    },
+    {
+      "id": 4,
+      "image": "sportswear 1.jpeg",
+      "name": "Nike Sportswear",
+      "description": "When the weather warms up, you'll want to reach for this washed, extra-oversized hoodie. Jersey fabric offers an alternative to fleece that's perfect for those days that call for a lightweight layer.",
+      "category": "Sweat",
+      "prixOffer": 7500,
+      "prix": 10000,
+      "images": [
+        "sportswear 2.png",
+        "sportswear 3.png",
+        "sportswear 4.png",
+        "sportswear 5.png"
+      ]
+    },
+    {
+      "id": 5,
+      "image": "Nike Air Max Plus 1.jpg",
+      "name": "Nike Air Max Plus",
+      "description": "Assert your rebellious side with your Nike Air Max Plus, an innovative Air design that offers optimal stability and exceptional cushioning. Featuring the original sleek lines, TPU detailing and breathable mesh upper, it embodies rebellious style.",
+      "category": "Shoes",
+      "prixOffer": 27291,
+      "prix": 27291,
+      "images": [
+        "Nike Air Max Plus 2.png",
+        "Nike Air Max Plus 3.jpg",
+        "Nike Air Max Plus 4.png",
+        "Nike Air Max Plus 5.png"
+      ]
+    },
+    {
+      "id": 6 ,
+      "image": "Nike Air Max Plus Drift 1.png",
+      "name": "Nike Air Max Plus Drift",
+      "description": "Revendique ton côté rebelle avec la Nike Air Max Plus Drift, un modèle Air novateur qui offre une stabilité et un amorti incroyables. Mesh respirant, dégradé de couleurs, lignes ondulées originales : cette sneaker affiche un style hors du commun.",
+      "category": "Shoes",
+      "prixOffer": 28000 ,
+      "prix": 28000,
+      "images": [
+        "Nike Air Max Plus Drift 2.png",
+        "Nike Air Max Plus Drift 3.png",
+        "Nike Air Max Plus Drift 4.png",
+        "Nike Air Max Plus Drift 5.png"
+      ]
+    },
+    {
+      "id":  7,
+      "image": "Nike Club 2.jpg",
+      "name": "Nike Club",
+      "description": "Dans un style sportswear qui va avec tout, ce short tissé assure un confort absolu pour tous les jours. La coupe tombe au-dessus du genou. Elle est décontractée au niveau du bassin et des cuisses pour ne pas te gêner, surtout par temps chaud. La doublure en mesh t'aide à rester au frais, dans un confort parfait pour la ville. Associe-le à un t-shirt et à tes sneakers Nike préférées pour un look plein de style.",
+      "category": "Short",
+      "prixOffer": 6000,
+      "prix": 6000,
+      "images": [
+        "Nike Club 1.png",
+        "Nike Club 3.jpg",
+        "Nike Club 4.png",
+        "Nike Club 5.png"
+      ]
+    },
+    {
+      "id": 8 ,
+      "image": "Nike Sportswear Tech Fleece Windrunner 1.png",
+      "name": "Nike Sportswear Tech Fleece Windrunner",
+      "description": "Associant deux de nos looks les plus emblématiques, ce sweat à capuche et zip Nike Tech Fleece s'inspire de notre veste Windrunner intemporelle. Sa coupe sportive et décontractée au niveau des épaules, de la poitrine et du corps permet de la porter facilement par-dessus d'autres vêtements. Notre Fleece premium lisse des deux côtés est encore plus chaud et doux qu'avant, sans sacrifier la légèreté.",
+      "category": "Sweat",
+      "prixOffer": 8000,
+      "prix": 17000 ,
+      "images": [
+        "Nike Sportswear Tech Fleece Windrunner 2.jpg",
+        "Nike Sportswear Tech Fleece Windrunner 3.jpg",
+        "Nike Sportswear Tech Fleece Windrunner 4.jpg",
+        "Nike Sportswear Tech Fleece Windrunner 5.jpg"
+      ]
+    },
+    {
+      "id": 9 ,
+      "image": "Jordan Brooklyn Fleece 1.png",
+      "name": "Jordan Brooklyn Fleece",
+      "description": "Tu cherches un short simple et stylé ? On a ce qu'il te faut. Il est confectionné dans un tissu Fleece doux, lisse à l'extérieur et duveteux à l'intérieur, pour t'offrir confort et chaleur.",
+      "category": "Short",
+      "prixOffer": 7000,
+      "prix": 7000,
+      "images": [
+        "Jordan Brooklyn Fleece 2.jpg",
+        "Jordan Brooklyn Fleece 3.jpg",
+        "Jordan Brooklyn Fleece 4.jpg",
+        "Jordan Brooklyn Fleece 5.jpg"
+      ]
+    },
+    {
+      "id": 10 ,
+      "image": "Nike Sportswear Tech Fleece 1.png",
+      "name": "Nike Sportswear Tech Fleece",
+      "description": "Ce survêtement confortable reprend la coupe slim signature que tu aimes pour un look sur mesure. Notre Fleece premium lisse des deux côtés est encore plus chaud et doux qu'avant, sans sacrifier la légèreté. Ce modèle présente de longues chevilles côtelées et une poche à zip sur la jambe droite pour ranger tes affaires, tout en affichant le look Tech Fleece culte. Associe-le au sweat à capuche Tech Fleece pour avoir le look complet.",
+      "category": "Pantalon",
+      "prixOffer": 7000,
+      "prix": 15000,
+      "images": [
+        "Nike Sportswear Tech Fleece 2.jpg",
+        "Nike Sportswear Tech Fleece 3.jpg",
+        "Nike Sportswear Tech Fleece 4.jpg",
+        "Nike Sportswear Tech Fleece 5.png"
+      ]
+    }
+  ]
+}

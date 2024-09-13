@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+:root {
+	--bgcolor : #171a1c;
+	--bgnav : #000000;
+	--colorp : #ff274b ;
+	--colorj : #fe0101;
+	--colortxt :#ddd;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Poppins', sans-serif;
+
+}
+body{
+	font-size: 16px;
+	color: var(--colortxt);	
+  	background: var(--bgcolor);
+}
+a {
+	color: var(--colortxt);
+	text-decoration: none;
+}
+span {
+	color: var(--colorp);
+}
+#logo {
+	font-size: 23pt;
+	color: var(--colortxt);
+}
+p , h1 , h3{
+	text-align: justify;
+}
+
+.loading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 600px; /* Adjust height as needed */
+}
+.not-found{
+	height: 80vh;
+	text-align:center;
+	display:flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+.next-error {
+	display: flex;
+	flex-direction: row;
+	font-size: xx-large;
+	line-height:70px;
+}
+.next-error-h1 {
+	display:inline-block;
+	margin:0 20px 0 0;
+	padding:0 23px 0 0;
+	font-weight:bold;
+	vertical-align: top ;
+}
+.next-error-div{
+	display:inline-block;
+}
+.next-error-h2 {
+	font-weight:bold;
+	margin:0
+}
+/*------------------------------ btn ----------------------------------------*/
+.btn {
+	background-color:var(--colorp);
+	border: 2px solid var(--colorp) ;
+	color: var(--colortxt);
+	font-weight: bold;
+	padding: 0.58rem 1.8rem ;
+	border-radius: 15px;
+	transition: 0.61s;
+	text-decoration:none;
+}
+.btn:hover {
+	background-color: var(--bgcolor);
+	transition: 0.61s;
+}
+/*-------------------------------Cont---------------------------------------------*/
+.cont {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	justify-self: center;
+}
+.contTxt {
+	font-size: 18pt;
+	width: 45%;
+	padding: 5px;
+	color: var(--colortxt);
+}
+
+.contImgs {
+	width: 45%;
+}
+.contTxt h1 {
+	color: var(--colorp);
+}
+@media screen and (max-width : 700px) {
+	.contTxt {
+		width: 90%;
+	}
+	.contImgs {
+		display: none ;	
+	}
+
+}

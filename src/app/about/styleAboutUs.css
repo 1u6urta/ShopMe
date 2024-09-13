@@ -1,0 +1,26 @@
+/*-------------------------------------------------------------------------------*/
+.container-about{
+	display: flex;
+    justify-content: space-evenly;
+    flex-direction: row-reverse;
+    align-items: center;
+}
+.content-section{
+	width: 45%;
+}
+.content-section .title{
+	text-align: center;
+	font-size: 19px;
+}
+.image-section {
+	width: 45%;
+}
+@media screen and (max-width : 700px) {
+	
+	.image-section {
+		display: none;
+	}
+	.content-section {
+		width: 90%;
+	}
+}
