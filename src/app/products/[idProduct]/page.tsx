@@ -1,5 +1,5 @@
 import { Metadata } from "next";
-import DetailsProduct from "../_Components/DetailsProduct";
+import DetailsProduct from "../../_Components/DetialsProduct";
 
 // Define the Product type
 type Product = {
