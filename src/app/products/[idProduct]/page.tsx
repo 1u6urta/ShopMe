@@ -14,7 +14,7 @@ type Product =  {
   
 
 async function ProductId ({ params } : { params : { idProduct : number }}  )  {
-    const url = 'http://localhost:8080/Products/'+ params.idProduct;
+    const url = 'https://my-json-server.typicode.com/1u6urta/repo/Products/'+ params.idProduct;
     const product = await fetch(url, {
         cache :"no-store",
     }).then ( res => {
