@@ -1,5 +1,5 @@
 
-import Carte from "@/_Components/Carte";
+import Carte from "../_Components/Carte";
 import "./styleProduct.css";
 import Link from "next/link";
 
