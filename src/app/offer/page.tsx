@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import Cadre from "@/_Components/Cadre";
+import Cadre from "../_Components/Cadre";
 import { Metadata } from "next";
 
 type Product =  {
