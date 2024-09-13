@@ -12,7 +12,7 @@ type Product = {
     images: string[];
 }
 
-const DetialsProduct = ({ product  }: { product: Product } ) => {
+const DetailsProduct = ({ product  }: { product: Product } ) => {
     return (
         <div className="detials">
             <div className="UP">
@@ -47,4 +47,4 @@ const DetialsProduct = ({ product  }: { product: Product } ) => {
     );
 }
 
-export default DetialsProduct;
+export default DetailsProduct;
