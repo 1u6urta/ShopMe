@@ -19,7 +19,7 @@ export const metadata: Metadata = {
 };
 
 export default  async function Offer( ) {
-  const url = 'https://my-json-server.typicode.com/1u6urta/repo/Products/';
+  const url = 'https://my-json-server.typicode.com/1u6urta/repo/Producs/';
     const products = await fetch(url, {
         cache :"no-store",
     }).then ( res => {
