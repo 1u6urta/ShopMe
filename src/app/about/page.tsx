@@ -26,7 +26,7 @@ const about = () => {
         </div>
       </div>
       <div className="image-section">
-        <Image src="/Images/About us.png" alt="" width={550} height={550} ></Image>
+        <Image src="./Images/About us.png" alt="" width={550} height={550} ></Image>
       </div>
     </div>
   );
