@@ -84,7 +84,7 @@ const LoginPage = () => {
                 </div>
             </div>
             <div className="cont-img">
-                <Image src="/Images/Login.png" alt={""} width={600} height={600} ></Image>
+                <Image src="./Images/Login.png" alt={""} width={600} height={600} ></Image>
             </div>
         </div>
     );
