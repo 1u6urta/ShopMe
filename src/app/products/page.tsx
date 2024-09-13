@@ -17,7 +17,7 @@ type Product = {
 
 
 export default async function Products() {
-  const url = 'http://localhost:8080/Products/';
+  const url = 'https://my-json-server.typicode.com/1u6urta/repo/Products/';
   const products = await fetch(url, {
     cache: "no-store",
   }).then(res => {
